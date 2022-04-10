@@ -1,0 +1,23 @@
+{
+  "name": "estatistica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel-Graf/Estatistica.git"
+  },
+  "author": "Joel Marcos Graf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joel-Graf/Estatistica/issues"
+  },
+  "homepage": "https://github.com/Joel-Graf/Estatistica#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "yargs": "^17.4.1"
+  }
+}
